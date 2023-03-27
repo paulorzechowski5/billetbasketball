@@ -1882,3 +1882,8 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Some extra changes added by paul (remove this if breaks) */
+#gtco-footer .gtco-copyright a {
+    color: #464646;
+}
