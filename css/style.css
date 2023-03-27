@@ -1330,8 +1330,8 @@ form label {
   border-color: #fff;
 }
 .btn-white.btn-outline {
-  color: #fff;
-  border: 2px solid #fff;
+  color: #110079;
+  border: 2px solid #110079;
 }
 .btn-white.btn-outline:hover, .btn-white.btn-outline:focus, .btn-white.btn-outline:active {
   background: #fff;
